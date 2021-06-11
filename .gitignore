@@ -116,3 +116,5 @@ dmypy.json
 *.docx
 /.idea
 /data/glove.6B.*
+*.pickle
+*.tmp
